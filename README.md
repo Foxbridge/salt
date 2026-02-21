@@ -2,8 +2,8 @@
 
 FOXBRIDGE Holdings applications for US Salt Trade.
 
-## Included implementation assets
+## Build assets in this repo
 
-- `cloudflare/worker.js`: secure gateway worker for Airtable + OpenAI + tracking APIs.
-- `docs/implementation-guide.md`: end-to-end setup instructions (Airtable, Worker, Squarespace).
-- `docs/squarespace-snippets.md`: copy/paste snippets for global CSS/JS and page integrations.
+- `cloudflare/worker.js` — secure gateway Worker for Airtable + OpenAI + tracking APIs.
+- `docs/implementation-guide.md` — complete build directions in deployment order.
+- `docs/squarespace-snippets.md` — full copy/paste Squarespace snippets for code injection and page blocks.
